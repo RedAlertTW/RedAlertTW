@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm RedAlert</h1>
-<h3 align="center">A passionate frontend developer, gamer who loves to read and travel.</h3>
+<h3 align="center">
+    A passionate frontend developer, gamer who loves to read and travel.<br>
+    📫 Reach me **redalert.twscripts@gmail.com**
+</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=redalerttw&label=Profile%20views&color=0e75b6&style=flat" alt="redalerttw" />
 </p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=redalerttw" alt="redalerttw" />
-    </a>
-</p>
-
-- 📫 How to reach me **redalert.twscripts@gmail.com**
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=redalerttw&show_icons=true&theme=dark&locale=en" alt="redalerttw" />
