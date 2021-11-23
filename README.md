@@ -6,16 +6,12 @@
 
 <br>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=redalerttw&show_icons=true&theme=dark&locale=en" alt="redalerttw" align="center" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=redalerttw&show_icons=true&theme=dark&locale=en" alt="redalerttw" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redalerttw&theme=dark" alt="redalerttw" align="center" />
-</p>
-
-<p>
-    <a href="https://www.buymeacoffee.com/twscripts" align="center">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="twscripts" align="center" />
+<p align="center">
+    <a href="https://www.buymeacoffee.com/twscripts">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="twscripts" />
     </a>
 </p>
