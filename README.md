@@ -5,9 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=redalerttw&label=Profile%20views&color=0e75b6&style=flat" alt="redalerttw" />
 </p>
 
-<p>
- - 📫 How to reach me **redalert.twscripts@gmail.com**
-</p>
+<p>📫 How to reach me **redalert.twscripts@gmail.com**</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redalerttw&show_icons=true&theme=dark&locale=en" alt="redalerttw" /></p>
 
