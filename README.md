@@ -16,7 +16,7 @@
 </p>
 
 <p>
-    <a href="https://www.buymeacoffee.com/twscripts">
+    <a href="https://www.buymeacoffee.com/twscripts" align="center">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="twscripts" align="center" />
     </a>
 </p>
